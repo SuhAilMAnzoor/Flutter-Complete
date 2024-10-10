@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fourth_counter_stateful_widget/third_lecture.dart';
+import 'package:fourth_counter_stateful_widget/four_screen.dart';
 
 void main() {
   runApp(const MyApp());
