@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sixth_gridview_navigation_mediaqurey_fonts.iml" filepath="$PROJECT_DIR$/sixth_gridview_navigation_mediaqurey_fonts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/sixth_gridview_navigation_mediaqurey_fonts_android.iml" filepath="$PROJECT_DIR$/android/sixth_gridview_navigation_mediaqurey_fonts_android.iml" />
+    </modules>
+  </component>
+</project>

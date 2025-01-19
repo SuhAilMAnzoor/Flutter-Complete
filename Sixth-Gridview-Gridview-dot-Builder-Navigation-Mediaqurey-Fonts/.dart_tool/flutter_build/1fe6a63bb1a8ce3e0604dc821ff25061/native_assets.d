@@ -1,0 +1,1 @@
+ C:\\Users\\sohai\\Desktop\\My\ Workspace\\Flutter\ Lectures\\Sixth-Gridview-Gridview-dot-Builder-Navigation-Mediaqurey-Fonts\\.dart_tool\\flutter_build\\1fe6a63bb1a8ce3e0604dc821ff25061\\native_assets.yaml: 

@@ -1,0 +1,1 @@
+ C:\\Users\\SohAil\ MAnzoor\\Desktop\\My\ Workspace\\Flutter\ Lectures\\sixth_gridview_navigation_mediaqurey_fonts\\.dart_tool\\flutter_build\\dd05fef3cd861e506b606230ce48a1ed\\native_assets.yaml: 
